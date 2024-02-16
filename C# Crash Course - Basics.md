@@ -118,3 +118,16 @@
 - Lecture provides a hands-on introduction to setting up a simple "Hello, World!" console application in C#
 - Emphasizes the practical aspects of using the .NET CLI for project creation and execution, setting the stage for further exploration of basic programming concepts in upcoming lectures
 
+## Lecture 4 - Basic Theory Pt 2
+
+- `Console.WriteLine()`
+- Variables
+  - Stored data with a name and address
+  - Different types
+    - Numeric
+    - Text
+    - Lists
+    - Lookup
+- Operators
+  - Mathematical
+  - Comparison
